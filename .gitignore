@@ -1,0 +1,2 @@
+# exclude python virtual environment
+app/*
