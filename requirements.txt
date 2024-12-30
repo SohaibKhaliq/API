@@ -3,3 +3,4 @@ Flask
 pyzbar
 opencv-python-headless
 numpy
+gunicorn
